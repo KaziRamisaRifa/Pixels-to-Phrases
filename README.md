@@ -11,7 +11,7 @@ data/
         captions.txt
 ```
 
-Pre-trained models are available in [checkpoint](). The checkpoint directory tree will look like this:
+Pre-trained models are available in [checkpoint](https://drive.google.com/file/d/1gL8__Y4Pm5CQbU87N3hhTkmQU9eY8xWQ/view?usp=sharing). The checkpoint directory tree will look like this:
 
 ```
 checkpoint/
