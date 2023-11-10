@@ -1,4 +1,5 @@
 ## Pixels-to-Phrases
+Encoder CNN is used with a language‑generating decoder RNN to generate a fitting natural‑language caption from the image. SpaCy tokenization utilized for splitting strings into individual words and mapped to corresponding index values.
 
 #### Requirements: `Pytorch, Torch Vision, Spacy, Tensorboard, PIL, TQDM`
 
